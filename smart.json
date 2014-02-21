@@ -3,6 +3,6 @@
   "description": "Smart package wrapping blueimp-tmpl.  Basically only useful to use the examples that come with blueimp-file-upload.",
   "homepage": "https://github.com/colinsullivan/meteor-blueimp-tmpl",
   "author": "Colin Sullivan <colin [at] colin-sullivan.net>",
-  "version": "2.5.3",
+  "version": "2.5.3.1",
   "git": "https://github.com/colinsullivan/meteor-blueimp-tmpl.git"
 }
